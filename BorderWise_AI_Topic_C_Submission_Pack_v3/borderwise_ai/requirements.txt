@@ -1,0 +1,2 @@
+# No third-party dependencies are required for the recommended local browser app.
+# Optional alternative Streamlit UI: pip install "streamlit>=1.40,<2.0"
